@@ -1,0 +1,16 @@
+body{
+  background-color: MediumAquaMarine;
+}
+h1 {
+    color: Gold;
+  }
+h3{
+  color: Gold;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
